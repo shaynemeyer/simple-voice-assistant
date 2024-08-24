@@ -1,7 +1,7 @@
 import base64
 from threading import Lock, Thread
 import time
-import numpy  # Fügen Sie diesen Import hinzu
+import numpy
 import cv2
 import openai
 from PIL import ImageGrab
